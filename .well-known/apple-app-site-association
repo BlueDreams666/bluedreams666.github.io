@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["SZC3Q777JR.app.roadie.mobile"],
+        "components": [
+          { "/": "/roadie-timetable/open.html", "comment": "A shared stop or line" },
+          { "/": "/roadie-timetable/ride.html", "comment": "A shared live ride" }
+        ]
+      }
+    ]
+  }
+}
